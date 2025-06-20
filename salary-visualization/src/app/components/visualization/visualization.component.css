@@ -1,0 +1,71 @@
+.visualization-container {
+  padding: 10px;
+}
+
+.visualization-container h3 {
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.comparison-chart {
+  margin-top: 20px;
+}
+
+.chart-item {
+  margin-bottom: 20px;
+}
+
+.chart-label {
+  font-weight: bold;
+  margin-bottom: 8px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.chart-bar-container {
+  height: 24px;
+  background-color: #333;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.chart-bar {
+  height: 100%;
+  background: linear-gradient(90deg, #7F52FF 0%, #9B6DFF 100%);
+  border-radius: 12px;
+  transition: width 0.5s ease-out;
+}
+
+.chart-value {
+  text-align: right;
+  margin-top: 5px;
+  font-weight: bold;
+  color: #9B6DFF;
+}
+
+.insights {
+  margin-top: 30px;
+  background-color: #ffffff;
+  color: #000000;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.insights h4 {
+  margin-top: 0;
+  margin-bottom: 15px;
+  color: #7F52FF;
+  font-size: 18px;
+}
+
+.insights ul {
+  padding-left: 20px;
+  margin: 0;
+}
+
+.insights li {
+  margin-bottom: 10px;
+  line-height: 1.5;
+}

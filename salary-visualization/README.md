@@ -1,10 +1,26 @@
-# SalaryVisualization
+# JetBrains Developer Ecosystem Salary Calculator
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.11.
+This project is an interactive data visualization based on the JetBrains Developer Ecosystem Survey 2024. It allows users to calculate and compare developer salaries based on country, position, and experience level.
 
-## Development server
+## Features
 
-To start a local development server, run:
+- Interactive salary calculator
+- Visual comparison of salary data
+- Insights based on the selected parameters
+- Responsive design for all device sizes
+
+## Design
+
+The application is based on the design from the [JetBrains IT Salary Calculator](https://www.jetbrains.com/lp/devecosystem-it-salary-calculator/).
+
+## Prerequisites
+
+- Node.js (v14 or higher)
+- npm (v6 or higher)
+
+## Installation
+
+1. Clone the repository:
 
 ```bash
 ng serve

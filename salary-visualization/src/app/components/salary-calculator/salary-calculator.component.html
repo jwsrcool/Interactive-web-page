@@ -1,1 +1,23 @@
-<p>salary-calculator works!</p>
+<div class="calculator-container">
+  <div class="header">
+    <h2>1</h2>
+    <p>Enter your programming language, and country.</p>
+  </div>
+
+  <div class="form-group">
+    <label for="language">Programming Language</label>
+    <select id="language" [(ngModel)]="selectedLanguage" (change)="calculateSalaries()">
+      <option *ngFor="let language of languages" [value]="language">{{ language }}</option>
+    </select>
+  </div>
+
+  <div class="calculator-form">
+    <div class="form-group">
+      <label for="country">Country</label>
+      <select id="country" [(ngModel)]="selectedCountry" (change)="calculateSalaries()">
+        <option *ngFor="let country of countries" [value]="country">{{ country }}</option>
+      </select>
+    </div>
+
+  </div>
+</div>

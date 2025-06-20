@@ -1,1 +1,25 @@
-<p>visualization works!</p>
+<div class="visualization-container">
+  <h2>2</h2>
+
+  <div class="comparison-chart">
+    <div *ngFor="let item of salaryData" class="chart-item">
+      <div class="chart-label">
+        <span>{{ item.level }}</span>
+        <span>{{ formatSalary(item.salary) }}</span>
+      </div>
+      <div class="chart-bar-container">
+        <div class="chart-bar" [style.width.%]="item.percentage"></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="insights">
+    <h4>Insights</h4>
+    <ul>
+      <li>In {{ country || 'US' }}, {{ language || 'JavaScript' }} developers earn an average of {{ formatSalary(averageSalary) }} annually.</li>
+      <li>Senior developers earn {{ seniorJuniorRatio }}x more than junior developers in this field.</li>
+      <li>The salary growth from Junior to Senior level is approximately {{ seniorJuniorGrowth }}%.</li>
+      <li>{{ language || 'JavaScript' }} developers in {{ country || 'US' }} earn {{ countryComparison }}% {{ countryComparisonDirection }} than the global average.</li>
+    </ul>
+  </div>
+</div>
