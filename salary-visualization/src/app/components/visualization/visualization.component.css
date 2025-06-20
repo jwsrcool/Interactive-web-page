@@ -1,16 +1,43 @@
 .visualization-container {
-  padding: 10px;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background: linear-gradient(180deg, #7F52FF 0%, #2b2b2b 50%);
+  color: white;
 }
 
-.visualization-container h3 {
+.text-box {
+  height: 200px;
+}
+
+.visualization-container h2 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 24px;
+  color: #ffffff;
+  padding: 20px;
+}
+
+.visualization-container p {
   margin-top: 0;
   margin-bottom: 20px;
-  font-size: 20px;
   color: #ffffff;
+  padding: 0px 20px;
+
+}
+
+.content-card {
+  background-color: #ffffff;
+  color: #000000;
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 10px;
 }
 
 .comparison-chart {
-  margin-top: 20px;
+  margin-bottom: 30px;
 }
 
 .chart-item {
@@ -22,11 +49,12 @@
   margin-bottom: 8px;
   display: flex;
   justify-content: space-between;
+  color: #000000;
 }
 
 .chart-bar-container {
   height: 24px;
-  background-color: #333;
+  background-color: #f0f0f0;
   border-radius: 12px;
   overflow: hidden;
 }
@@ -46,11 +74,8 @@
 }
 
 .insights {
-  margin-top: 30px;
-  background-color: #ffffff;
-  color: #000000;
-  border-radius: 10px;
-  padding: 20px;
+  border-top: 1px solid #f0f0f0;
+  padding-top: 20px;
 }
 
 .insights h4 {

@@ -11,11 +11,9 @@
   <div class="layout-container">
     <app-salary-calculator #calculator></app-salary-calculator>
 
-    <div class="card">
-      <app-visualization
-        [country]="calculator.selectedCountry"
-        [language]="calculator.selectedLanguage">
-      </app-visualization>
-    </div>
+    <app-visualization
+      [country]="calculator.selectedCountry"
+      [language]="calculator.selectedLanguage">
+    </app-visualization>
   </div>
 </div>
