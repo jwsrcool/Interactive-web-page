@@ -1,0 +1,6714 @@
+
+{
+  "United States": {
+    "JavaScript / TypeScript": {
+      "entries": [
+        {
+          "value": 35,
+          "category": "<1 year",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "<1 year",
+            "Salary": "$35K / year"
+          }
+        },
+        {
+          "value": 42,
+          "category": "<1 year",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "<1 year",
+            "Salary": "$42K / year"
+          }
+        },
+        {
+          "value": 51,
+          "category": "<1 year",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "<1 year",
+            "Salary": "$51K / year"
+          }
+        },
+        {
+          "value": 52,
+          "category": "<1 year",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "<1 year",
+            "Salary": "$52K / year"
+          }
+        },
+        {
+          "value": 54,
+          "category": "<1 year",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "<1 year",
+            "Salary": "$54K / year"
+          }
+        },
+        {
+          "value": 56,
+          "category": "<1 year",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "<1 year",
+            "Salary": "$56K / year"
+          }
+        },
+        {
+          "value": 77,
+          "category": "<1 year",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "<1 year",
+            "Salary": "$77K / year"
+          }
+        },
+        {
+          "value": 80,
+          "category": "<1 year",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "<1 year",
+            "Salary": "$80K / year"
+          }
+        },
+        {
+          "value": 88,
+          "category": "<1 year",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "<1 year",
+            "Salary": "$88K / year"
+          }
+        },
+        {
+          "value": 90,
+          "category": "<1 year",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "<1 year",
+            "Salary": "$90K / year"
+          }
+        },
+        {
+          "value": 40,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "1\u20132 years",
+            "Salary": "$40K / year"
+          }
+        },
+        {
+          "value": 50,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "1\u20132 years",
+            "Salary": "$50K / year"
+          }
+        },
+        {
+          "value": 52,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "1\u20132 years",
+            "Salary": "$52K / year"
+          }
+        },
+        {
+          "value": 52,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "1\u20132 years",
+            "Salary": "$52K / year"
+          }
+        },
+        {
+          "value": 54,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "1\u20132 years",
+            "Salary": "$54K / year"
+          }
+        },
+        {
+          "value": 60,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "1\u20132 years",
+            "Salary": "$60K / year"
+          }
+        },
+        {
+          "value": 65,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "1\u20132 years",
+            "Salary": "$65K / year"
+          }
+        },
+        {
+          "value": 65,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "1\u20132 years",
+            "Salary": "$65K / year"
+          }
+        },
+        {
+          "value": 67,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "1\u20132 years",
+            "Salary": "$67K / year"
+          }
+        },
+        {
+          "value": 69,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "1\u20132 years",
+            "Salary": "$69K / year"
+          }
+        },
+        {
+          "value": 70,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "1\u20132 years",
+            "Salary": "$70K / year"
+          }
+        },
+        {
+          "value": 72,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "1\u20132 years",
+            "Salary": "$72K / year"
+          }
+        },
+        {
+          "value": 75,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "1\u20132 years",
+            "Salary": "$75K / year"
+          }
+        },
+        {
+          "value": 78,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "1\u20132 years",
+            "Salary": "$78K / year"
+          }
+        },
+        {
+          "value": 85,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "1\u20132 years",
+            "Salary": "$85K / year"
+          }
+        },
+        {
+          "value": 90,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "1\u20132 years",
+            "Salary": "$90K / year"
+          }
+        },
+        {
+          "value": 90,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "1\u20132 years",
+            "Salary": "$90K / year"
+          }
+        },
+        {
+          "value": 92,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "1\u20132 years",
+            "Salary": "$92K / year"
+          }
+        },
+        {
+          "value": 93,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "1\u20132 years",
+            "Salary": "$93K / year"
+          }
+        },
+        {
+          "value": 95,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "1\u20132 years",
+            "Salary": "$95K / year"
+          }
+        },
+        {
+          "value": 100,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "1\u20132 years",
+            "Salary": "$100K / year"
+          }
+        },
+        {
+          "value": 100,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "1\u20132 years",
+            "Salary": "$100K / year"
+          }
+        },
+        {
+          "value": 110,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "1\u20132 years",
+            "Salary": "$110K / year"
+          }
+        },
+        {
+          "value": 115,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "1\u20132 years",
+            "Salary": "$115K / year"
+          }
+        },
+        {
+          "value": 116,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "1\u20132 years",
+            "Salary": "$116K / year"
+          }
+        },
+        {
+          "value": 140,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "1\u20132 years",
+            "Salary": "$140K / year"
+          }
+        },
+        {
+          "value": 150,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "1\u20132 years",
+            "Salary": "$150K / year"
+          }
+        },
+        {
+          "value": 47,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$47K / year"
+          }
+        },
+        {
+          "value": 60,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$60K / year"
+          }
+        },
+        {
+          "value": 62,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$62K / year"
+          }
+        },
+        {
+          "value": 65,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$65K / year"
+          }
+        },
+        {
+          "value": 65,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$65K / year"
+          }
+        },
+        {
+          "value": 70,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$70K / year"
+          }
+        },
+        {
+          "value": 72,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$72K / year"
+          }
+        },
+        {
+          "value": 75,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$75K / year"
+          }
+        },
+        {
+          "value": 75,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$75K / year"
+          }
+        },
+        {
+          "value": 75,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$75K / year"
+          }
+        },
+        {
+          "value": 76,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$76K / year"
+          }
+        },
+        {
+          "value": 78,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$78K / year"
+          }
+        },
+        {
+          "value": 78,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$78K / year"
+          }
+        },
+        {
+          "value": 80,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$80K / year"
+          }
+        },
+        {
+          "value": 80,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$80K / year"
+          }
+        },
+        {
+          "value": 81,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$81K / year"
+          }
+        },
+        {
+          "value": 83,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$83K / year"
+          }
+        },
+        {
+          "value": 83,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$83K / year"
+          }
+        },
+        {
+          "value": 85,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$85K / year"
+          }
+        },
+        {
+          "value": 85,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$85K / year"
+          }
+        },
+        {
+          "value": 85,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$85K / year"
+          }
+        },
+        {
+          "value": 88,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$88K / year"
+          }
+        },
+        {
+          "value": 89,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$89K / year"
+          }
+        },
+        {
+          "value": 93,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$93K / year"
+          }
+        },
+        {
+          "value": 93,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$93K / year"
+          }
+        },
+        {
+          "value": 95,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$95K / year"
+          }
+        },
+        {
+          "value": 95,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$95K / year"
+          }
+        },
+        {
+          "value": 95,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$95K / year"
+          }
+        },
+        {
+          "value": 96,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$96K / year"
+          }
+        },
+        {
+          "value": 97,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$97K / year"
+          }
+        },
+        {
+          "value": 97,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$97K / year"
+          }
+        },
+        {
+          "value": 100,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$100K / year"
+          }
+        },
+        {
+          "value": 100,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$100K / year"
+          }
+        },
+        {
+          "value": 100,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$100K / year"
+          }
+        },
+        {
+          "value": 100,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$100K / year"
+          }
+        },
+        {
+          "value": 100,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$100K / year"
+          }
+        },
+        {
+          "value": 102,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$102K / year"
+          }
+        },
+        {
+          "value": 104,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$104K / year"
+          }
+        },
+        {
+          "value": 105,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$105K / year"
+          }
+        },
+        {
+          "value": 105,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$105K / year"
+          }
+        },
+        {
+          "value": 105,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$105K / year"
+          }
+        },
+        {
+          "value": 105,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$105K / year"
+          }
+        },
+        {
+          "value": 106,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$106K / year"
+          }
+        },
+        {
+          "value": 110,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$110K / year"
+          }
+        },
+        {
+          "value": 110,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$110K / year"
+          }
+        },
+        {
+          "value": 110,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$110K / year"
+          }
+        },
+        {
+          "value": 110,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$110K / year"
+          }
+        },
+        {
+          "value": 110,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$110K / year"
+          }
+        },
+        {
+          "value": 115,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$115K / year"
+          }
+        },
+        {
+          "value": 116,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$116K / year"
+          }
+        },
+        {
+          "value": 120,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$120K / year"
+          }
+        },
+        {
+          "value": 120,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$120K / year"
+          }
+        },
+        {
+          "value": 125,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$125K / year"
+          }
+        },
+        {
+          "value": 125,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$125K / year"
+          }
+        },
+        {
+          "value": 125,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$125K / year"
+          }
+        },
+        {
+          "value": 129,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$129K / year"
+          }
+        },
+        {
+          "value": 130,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$130K / year"
+          }
+        },
+        {
+          "value": 130,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$130K / year"
+          }
+        },
+        {
+          "value": 130,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$130K / year"
+          }
+        },
+        {
+          "value": 135,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$135K / year"
+          }
+        },
+        {
+          "value": 135,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$135K / year"
+          }
+        },
+        {
+          "value": 145,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$145K / year"
+          }
+        },
+        {
+          "value": 149,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$149K / year"
+          }
+        },
+        {
+          "value": 150,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$150K / year"
+          }
+        },
+        {
+          "value": 150,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$150K / year"
+          }
+        },
+        {
+          "value": 150,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$150K / year"
+          }
+        },
+        {
+          "value": 150,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$150K / year"
+          }
+        },
+        {
+          "value": 155,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$155K / year"
+          }
+        },
+        {
+          "value": 156,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$156K / year"
+          }
+        },
+        {
+          "value": 160,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$160K / year"
+          }
+        },
+        {
+          "value": 160,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$160K / year"
+          }
+        },
+        {
+          "value": 166,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$166K / year"
+          }
+        },
+        {
+          "value": 168,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$168K / year"
+          }
+        },
+        {
+          "value": 175,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$175K / year"
+          }
+        },
+        {
+          "value": 180,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$180K / year"
+          }
+        },
+        {
+          "value": 180,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$180K / year"
+          }
+        },
+        {
+          "value": 180,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$180K / year"
+          }
+        },
+        {
+          "value": 198,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$198K / year"
+          }
+        },
+        {
+          "value": 223,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "3\u20135 years",
+            "Salary": "$223K / year"
+          }
+        },
+        {
+          "value": 42,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$42K / year"
+          }
+        },
+        {
+          "value": 62,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$62K / year"
+          }
+        },
+        {
+          "value": 70,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$70K / year"
+          }
+        },
+        {
+          "value": 72,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$72K / year"
+          }
+        },
+        {
+          "value": 75,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$75K / year"
+          }
+        },
+        {
+          "value": 80,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$80K / year"
+          }
+        },
+        {
+          "value": 80,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$80K / year"
+          }
+        },
+        {
+          "value": 88,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$88K / year"
+          }
+        },
+        {
+          "value": 92,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$92K / year"
+          }
+        },
+        {
+          "value": 92,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$92K / year"
+          }
+        },
+        {
+          "value": 95,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$95K / year"
+          }
+        },
+        {
+          "value": 100,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$100K / year"
+          }
+        },
+        {
+          "value": 100,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$100K / year"
+          }
+        },
+        {
+          "value": 100,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$100K / year"
+          }
+        },
+        {
+          "value": 104,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$104K / year"
+          }
+        },
+        {
+          "value": 105,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$105K / year"
+          }
+        },
+        {
+          "value": 105,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$105K / year"
+          }
+        },
+        {
+          "value": 106,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$106K / year"
+          }
+        },
+        {
+          "value": 109,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$109K / year"
+          }
+        },
+        {
+          "value": 110,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$110K / year"
+          }
+        },
+        {
+          "value": 110,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$110K / year"
+          }
+        },
+        {
+          "value": 110,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$110K / year"
+          }
+        },
+        {
+          "value": 110,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$110K / year"
+          }
+        },
+        {
+          "value": 114,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$114K / year"
+          }
+        },
+        {
+          "value": 115,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$115K / year"
+          }
+        },
+        {
+          "value": 115,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$115K / year"
+          }
+        },
+        {
+          "value": 120,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$120K / year"
+          }
+        },
+        {
+          "value": 120,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$120K / year"
+          }
+        },
+        {
+          "value": 120,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$120K / year"
+          }
+        },
+        {
+          "value": 120,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$120K / year"
+          }
+        },
+        {
+          "value": 120,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$120K / year"
+          }
+        },
+        {
+          "value": 122,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$122K / year"
+          }
+        },
+        {
+          "value": 124,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$124K / year"
+          }
+        },
+        {
+          "value": 125,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$125K / year"
+          }
+        },
+        {
+          "value": 125,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$125K / year"
+          }
+        },
+        {
+          "value": 130,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$130K / year"
+          }
+        },
+        {
+          "value": 130,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$130K / year"
+          }
+        },
+        {
+          "value": 130,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$130K / year"
+          }
+        },
+        {
+          "value": 130,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$130K / year"
+          }
+        },
+        {
+          "value": 130,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$130K / year"
+          }
+        },
+        {
+          "value": 130,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$130K / year"
+          }
+        },
+        {
+          "value": 130,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$130K / year"
+          }
+        },
+        {
+          "value": 131,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$131K / year"
+          }
+        },
+        {
+          "value": 132,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$132K / year"
+          }
+        },
+        {
+          "value": 135,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$135K / year"
+          }
+        },
+        {
+          "value": 135,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$135K / year"
+          }
+        },
+        {
+          "value": 135,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$135K / year"
+          }
+        },
+        {
+          "value": 136,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$136K / year"
+          }
+        },
+        {
+          "value": 138,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$138K / year"
+          }
+        },
+        {
+          "value": 138,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$138K / year"
+          }
+        },
+        {
+          "value": 140,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$140K / year"
+          }
+        },
+        {
+          "value": 140,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$140K / year"
+          }
+        },
+        {
+          "value": 142,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$142K / year"
+          }
+        },
+        {
+          "value": 143,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$143K / year"
+          }
+        },
+        {
+          "value": 145,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$145K / year"
+          }
+        },
+        {
+          "value": 146,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$146K / year"
+          }
+        },
+        {
+          "value": 146,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$146K / year"
+          }
+        },
+        {
+          "value": 150,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$150K / year"
+          }
+        },
+        {
+          "value": 150,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$150K / year"
+          }
+        },
+        {
+          "value": 150,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$150K / year"
+          }
+        },
+        {
+          "value": 150,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$150K / year"
+          }
+        },
+        {
+          "value": 155,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$155K / year"
+          }
+        },
+        {
+          "value": 155,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$155K / year"
+          }
+        },
+        {
+          "value": 157,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$157K / year"
+          }
+        },
+        {
+          "value": 159,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$159K / year"
+          }
+        },
+        {
+          "value": 160,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$160K / year"
+          }
+        },
+        {
+          "value": 160,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$160K / year"
+          }
+        },
+        {
+          "value": 160,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$160K / year"
+          }
+        },
+        {
+          "value": 160,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$160K / year"
+          }
+        },
+        {
+          "value": 160,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$160K / year"
+          }
+        },
+        {
+          "value": 162,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$162K / year"
+          }
+        },
+        {
+          "value": 165,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$165K / year"
+          }
+        },
+        {
+          "value": 165,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$165K / year"
+          }
+        },
+        {
+          "value": 165,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$165K / year"
+          }
+        },
+        {
+          "value": 167,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$167K / year"
+          }
+        },
+        {
+          "value": 170,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$170K / year"
+          }
+        },
+        {
+          "value": 175,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$175K / year"
+          }
+        },
+        {
+          "value": 180,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$180K / year"
+          }
+        },
+        {
+          "value": 180,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$180K / year"
+          }
+        },
+        {
+          "value": 180,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$180K / year"
+          }
+        },
+        {
+          "value": 180,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$180K / year"
+          }
+        },
+        {
+          "value": 180,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$180K / year"
+          }
+        },
+        {
+          "value": 180,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$180K / year"
+          }
+        },
+        {
+          "value": 180,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$180K / year"
+          }
+        },
+        {
+          "value": 185,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$185K / year"
+          }
+        },
+        {
+          "value": 192,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$192K / year"
+          }
+        },
+        {
+          "value": 192,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$192K / year"
+          }
+        },
+        {
+          "value": 195,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$195K / year"
+          }
+        },
+        {
+          "value": 200,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$200K / year"
+          }
+        },
+        {
+          "value": 200,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$200K / year"
+          }
+        },
+        {
+          "value": 200,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$200K / year"
+          }
+        },
+        {
+          "value": 200,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$200K / year"
+          }
+        },
+        {
+          "value": 205,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$205K / year"
+          }
+        },
+        {
+          "value": 212,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$212K / year"
+          }
+        },
+        {
+          "value": 220,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$220K / year"
+          }
+        },
+        {
+          "value": 225,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$225K / year"
+          }
+        },
+        {
+          "value": 225,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$225K / year"
+          }
+        },
+        {
+          "value": 230,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$230K / year"
+          }
+        },
+        {
+          "value": 240,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$240K / year"
+          }
+        },
+        {
+          "value": 240,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$240K / year"
+          }
+        },
+        {
+          "value": 240,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$240K / year"
+          }
+        },
+        {
+          "value": 250,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$250K / year"
+          }
+        },
+        {
+          "value": 265,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$265K / year"
+          }
+        },
+        {
+          "value": 300,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$300K / year"
+          }
+        },
+        {
+          "value": 300,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$300K / year"
+          }
+        },
+        {
+          "value": 300,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$300K / year"
+          }
+        },
+        {
+          "value": 360,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "6\u201310 years",
+            "Salary": "$360K / year"
+          }
+        },
+        {
+          "value": 50,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$50K / year"
+          }
+        },
+        {
+          "value": 55,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$55K / year"
+          }
+        },
+        {
+          "value": 75,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$75K / year"
+          }
+        },
+        {
+          "value": 80,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$80K / year"
+          }
+        },
+        {
+          "value": 83,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$83K / year"
+          }
+        },
+        {
+          "value": 86,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$86K / year"
+          }
+        },
+        {
+          "value": 92,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$92K / year"
+          }
+        },
+        {
+          "value": 95,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$95K / year"
+          }
+        },
+        {
+          "value": 100,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$100K / year"
+          }
+        },
+        {
+          "value": 100,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$100K / year"
+          }
+        },
+        {
+          "value": 100,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$100K / year"
+          }
+        },
+        {
+          "value": 100,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$100K / year"
+          }
+        },
+        {
+          "value": 100,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$100K / year"
+          }
+        },
+        {
+          "value": 103,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$103K / year"
+          }
+        },
+        {
+          "value": 105,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$105K / year"
+          }
+        },
+        {
+          "value": 106,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$106K / year"
+          }
+        },
+        {
+          "value": 107,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$107K / year"
+          }
+        },
+        {
+          "value": 108,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$108K / year"
+          }
+        },
+        {
+          "value": 110,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$110K / year"
+          }
+        },
+        {
+          "value": 110,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$110K / year"
+          }
+        },
+        {
+          "value": 112,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$112K / year"
+          }
+        },
+        {
+          "value": 116,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$116K / year"
+          }
+        },
+        {
+          "value": 120,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$120K / year"
+          }
+        },
+        {
+          "value": 120,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$120K / year"
+          }
+        },
+        {
+          "value": 120,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$120K / year"
+          }
+        },
+        {
+          "value": 120,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$120K / year"
+          }
+        },
+        {
+          "value": 120,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$120K / year"
+          }
+        },
+        {
+          "value": 120,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$120K / year"
+          }
+        },
+        {
+          "value": 121,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$121K / year"
+          }
+        },
+        {
+          "value": 121,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$121K / year"
+          }
+        },
+        {
+          "value": 122,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$122K / year"
+          }
+        },
+        {
+          "value": 125,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$125K / year"
+          }
+        },
+        {
+          "value": 125,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$125K / year"
+          }
+        },
+        {
+          "value": 125,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$125K / year"
+          }
+        },
+        {
+          "value": 125,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$125K / year"
+          }
+        },
+        {
+          "value": 127,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$127K / year"
+          }
+        },
+        {
+          "value": 130,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$130K / year"
+          }
+        },
+        {
+          "value": 130,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$130K / year"
+          }
+        },
+        {
+          "value": 130,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$130K / year"
+          }
+        },
+        {
+          "value": 130,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$130K / year"
+          }
+        },
+        {
+          "value": 132,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$132K / year"
+          }
+        },
+        {
+          "value": 132,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$132K / year"
+          }
+        },
+        {
+          "value": 134,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$134K / year"
+          }
+        },
+        {
+          "value": 135,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$135K / year"
+          }
+        },
+        {
+          "value": 140,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$140K / year"
+          }
+        },
+        {
+          "value": 140,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$140K / year"
+          }
+        },
+        {
+          "value": 144,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$144K / year"
+          }
+        },
+        {
+          "value": 145,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$145K / year"
+          }
+        },
+        {
+          "value": 150,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$150K / year"
+          }
+        },
+        {
+          "value": 150,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$150K / year"
+          }
+        },
+        {
+          "value": 150,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$150K / year"
+          }
+        },
+        {
+          "value": 150,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$150K / year"
+          }
+        },
+        {
+          "value": 150,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$150K / year"
+          }
+        },
+        {
+          "value": 150,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$150K / year"
+          }
+        },
+        {
+          "value": 150,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$150K / year"
+          }
+        },
+        {
+          "value": 155,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$155K / year"
+          }
+        },
+        {
+          "value": 160,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$160K / year"
+          }
+        },
+        {
+          "value": 165,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$165K / year"
+          }
+        },
+        {
+          "value": 165,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$165K / year"
+          }
+        },
+        {
+          "value": 165,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$165K / year"
+          }
+        },
+        {
+          "value": 165,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$165K / year"
+          }
+        },
+        {
+          "value": 165,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$165K / year"
+          }
+        },
+        {
+          "value": 166,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$166K / year"
+          }
+        },
+        {
+          "value": 170,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$170K / year"
+          }
+        },
+        {
+          "value": 170,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$170K / year"
+          }
+        },
+        {
+          "value": 170,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$170K / year"
+          }
+        },
+        {
+          "value": 172,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$172K / year"
+          }
+        },
+        {
+          "value": 176,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$176K / year"
+          }
+        },
+        {
+          "value": 179,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$179K / year"
+          }
+        },
+        {
+          "value": 180,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$180K / year"
+          }
+        },
+        {
+          "value": 180,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$180K / year"
+          }
+        },
+        {
+          "value": 180,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$180K / year"
+          }
+        },
+        {
+          "value": 180,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$180K / year"
+          }
+        },
+        {
+          "value": 189,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$189K / year"
+          }
+        },
+        {
+          "value": 190,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$190K / year"
+          }
+        },
+        {
+          "value": 190,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$190K / year"
+          }
+        },
+        {
+          "value": 195,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$195K / year"
+          }
+        },
+        {
+          "value": 200,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$200K / year"
+          }
+        },
+        {
+          "value": 200,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$200K / year"
+          }
+        },
+        {
+          "value": 210,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$210K / year"
+          }
+        },
+        {
+          "value": 210,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$210K / year"
+          }
+        },
+        {
+          "value": 210,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$210K / year"
+          }
+        },
+        {
+          "value": 225,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$225K / year"
+          }
+        },
+        {
+          "value": 225,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$225K / year"
+          }
+        },
+        {
+          "value": 230,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$230K / year"
+          }
+        },
+        {
+          "value": 230,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$230K / year"
+          }
+        },
+        {
+          "value": 235,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$235K / year"
+          }
+        },
+        {
+          "value": 245,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$245K / year"
+          }
+        },
+        {
+          "value": 250,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$250K / year"
+          }
+        },
+        {
+          "value": 250,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$250K / year"
+          }
+        },
+        {
+          "value": 300,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$300K / year"
+          }
+        },
+        {
+          "value": 350,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$350K / year"
+          }
+        },
+        {
+          "value": 370,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$370K / year"
+          }
+        },
+        {
+          "value": 450,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "11\u201316 years",
+            "Salary": "$450K / year"
+          }
+        },
+        {
+          "value": 52,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$52K / year"
+          }
+        },
+        {
+          "value": 65,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$65K / year"
+          }
+        },
+        {
+          "value": 82,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$82K / year"
+          }
+        },
+        {
+          "value": 85,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$85K / year"
+          }
+        },
+        {
+          "value": 92,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$92K / year"
+          }
+        },
+        {
+          "value": 95,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$95K / year"
+          }
+        },
+        {
+          "value": 98,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$98K / year"
+          }
+        },
+        {
+          "value": 100,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$100K / year"
+          }
+        },
+        {
+          "value": 104,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$104K / year"
+          }
+        },
+        {
+          "value": 110,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$110K / year"
+          }
+        },
+        {
+          "value": 110,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$110K / year"
+          }
+        },
+        {
+          "value": 110,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$110K / year"
+          }
+        },
+        {
+          "value": 113,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$113K / year"
+          }
+        },
+        {
+          "value": 114,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$114K / year"
+          }
+        },
+        {
+          "value": 114,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$114K / year"
+          }
+        },
+        {
+          "value": 115,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$115K / year"
+          }
+        },
+        {
+          "value": 115,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$115K / year"
+          }
+        },
+        {
+          "value": 115,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$115K / year"
+          }
+        },
+        {
+          "value": 115,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$115K / year"
+          }
+        },
+        {
+          "value": 115,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$115K / year"
+          }
+        },
+        {
+          "value": 115,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$115K / year"
+          }
+        },
+        {
+          "value": 115,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$115K / year"
+          }
+        },
+        {
+          "value": 118,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$118K / year"
+          }
+        },
+        {
+          "value": 118,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$118K / year"
+          }
+        },
+        {
+          "value": 120,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$120K / year"
+          }
+        },
+        {
+          "value": 120,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$120K / year"
+          }
+        },
+        {
+          "value": 120,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$120K / year"
+          }
+        },
+        {
+          "value": 120,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$120K / year"
+          }
+        },
+        {
+          "value": 120,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$120K / year"
+          }
+        },
+        {
+          "value": 121,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$121K / year"
+          }
+        },
+        {
+          "value": 125,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$125K / year"
+          }
+        },
+        {
+          "value": 125,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$125K / year"
+          }
+        },
+        {
+          "value": 130,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$130K / year"
+          }
+        },
+        {
+          "value": 130,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$130K / year"
+          }
+        },
+        {
+          "value": 130,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$130K / year"
+          }
+        },
+        {
+          "value": 130,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$130K / year"
+          }
+        },
+        {
+          "value": 130,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$130K / year"
+          }
+        },
+        {
+          "value": 130,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$130K / year"
+          }
+        },
+        {
+          "value": 135,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$135K / year"
+          }
+        },
+        {
+          "value": 135,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$135K / year"
+          }
+        },
+        {
+          "value": 135,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$135K / year"
+          }
+        },
+        {
+          "value": 135,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$135K / year"
+          }
+        },
+        {
+          "value": 138,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$138K / year"
+          }
+        },
+        {
+          "value": 140,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$140K / year"
+          }
+        },
+        {
+          "value": 140,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$140K / year"
+          }
+        },
+        {
+          "value": 140,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$140K / year"
+          }
+        },
+        {
+          "value": 140,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$140K / year"
+          }
+        },
+        {
+          "value": 140,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$140K / year"
+          }
+        },
+        {
+          "value": 140,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$140K / year"
+          }
+        },
+        {
+          "value": 140,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$140K / year"
+          }
+        },
+        {
+          "value": 140,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$140K / year"
+          }
+        },
+        {
+          "value": 140,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$140K / year"
+          }
+        },
+        {
+          "value": 140,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$140K / year"
+          }
+        },
+        {
+          "value": 140,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$140K / year"
+          }
+        },
+        {
+          "value": 141,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$141K / year"
+          }
+        },
+        {
+          "value": 142,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$142K / year"
+          }
+        },
+        {
+          "value": 145,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$145K / year"
+          }
+        },
+        {
+          "value": 145,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$145K / year"
+          }
+        },
+        {
+          "value": 146,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$146K / year"
+          }
+        },
+        {
+          "value": 147,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$147K / year"
+          }
+        },
+        {
+          "value": 150,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$150K / year"
+          }
+        },
+        {
+          "value": 150,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$150K / year"
+          }
+        },
+        {
+          "value": 150,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$150K / year"
+          }
+        },
+        {
+          "value": 150,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$150K / year"
+          }
+        },
+        {
+          "value": 150,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$150K / year"
+          }
+        },
+        {
+          "value": 151,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$151K / year"
+          }
+        },
+        {
+          "value": 152,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$152K / year"
+          }
+        },
+        {
+          "value": 155,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$155K / year"
+          }
+        },
+        {
+          "value": 158,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$158K / year"
+          }
+        },
+        {
+          "value": 160,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$160K / year"
+          }
+        },
+        {
+          "value": 160,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$160K / year"
+          }
+        },
+        {
+          "value": 160,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$160K / year"
+          }
+        },
+        {
+          "value": 160,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$160K / year"
+          }
+        },
+        {
+          "value": 160,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$160K / year"
+          }
+        },
+        {
+          "value": 164,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$164K / year"
+          }
+        },
+        {
+          "value": 165,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$165K / year"
+          }
+        },
+        {
+          "value": 165,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$165K / year"
+          }
+        },
+        {
+          "value": 165,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$165K / year"
+          }
+        },
+        {
+          "value": 166,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$166K / year"
+          }
+        },
+        {
+          "value": 170,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$170K / year"
+          }
+        },
+        {
+          "value": 170,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$170K / year"
+          }
+        },
+        {
+          "value": 170,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$170K / year"
+          }
+        },
+        {
+          "value": 170,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$170K / year"
+          }
+        },
+        {
+          "value": 172,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$172K / year"
+          }
+        },
+        {
+          "value": 175,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$175K / year"
+          }
+        },
+        {
+          "value": 175,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$175K / year"
+          }
+        },
+        {
+          "value": 175,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$175K / year"
+          }
+        },
+        {
+          "value": 175,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$175K / year"
+          }
+        },
+        {
+          "value": 175,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$175K / year"
+          }
+        },
+        {
+          "value": 180,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$180K / year"
+          }
+        },
+        {
+          "value": 180,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$180K / year"
+          }
+        },
+        {
+          "value": 185,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$185K / year"
+          }
+        },
+        {
+          "value": 185,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$185K / year"
+          }
+        },
+        {
+          "value": 190,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$190K / year"
+          }
+        },
+        {
+          "value": 190,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$190K / year"
+          }
+        },
+        {
+          "value": 192,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$192K / year"
+          }
+        },
+        {
+          "value": 195,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$195K / year"
+          }
+        },
+        {
+          "value": 196,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$196K / year"
+          }
+        },
+        {
+          "value": 196,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$196K / year"
+          }
+        },
+        {
+          "value": 198,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$198K / year"
+          }
+        },
+        {
+          "value": 198,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$198K / year"
+          }
+        },
+        {
+          "value": 199,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$199K / year"
+          }
+        },
+        {
+          "value": 200,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$200K / year"
+          }
+        },
+        {
+          "value": 200,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$200K / year"
+          }
+        },
+        {
+          "value": 201,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$201K / year"
+          }
+        },
+        {
+          "value": 202,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$202K / year"
+          }
+        },
+        {
+          "value": 207,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$207K / year"
+          }
+        },
+        {
+          "value": 210,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$210K / year"
+          }
+        },
+        {
+          "value": 210,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$210K / year"
+          }
+        },
+        {
+          "value": 210,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$210K / year"
+          }
+        },
+        {
+          "value": 212,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$212K / year"
+          }
+        },
+        {
+          "value": 220,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$220K / year"
+          }
+        },
+        {
+          "value": 220,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$220K / year"
+          }
+        },
+        {
+          "value": 220,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$220K / year"
+          }
+        },
+        {
+          "value": 226,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$226K / year"
+          }
+        },
+        {
+          "value": 230,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$230K / year"
+          }
+        },
+        {
+          "value": 230,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$230K / year"
+          }
+        },
+        {
+          "value": 240,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$240K / year"
+          }
+        },
+        {
+          "value": 245,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$245K / year"
+          }
+        },
+        {
+          "value": 250,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$250K / year"
+          }
+        },
+        {
+          "value": 250,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$250K / year"
+          }
+        },
+        {
+          "value": 250,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$250K / year"
+          }
+        },
+        {
+          "value": 250,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$250K / year"
+          }
+        },
+        {
+          "value": 250,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$250K / year"
+          }
+        },
+        {
+          "value": 250,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$250K / year"
+          }
+        },
+        {
+          "value": 250,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$250K / year"
+          }
+        },
+        {
+          "value": 250,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$250K / year"
+          }
+        },
+        {
+          "value": 250,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$250K / year"
+          }
+        },
+        {
+          "value": 250,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$250K / year"
+          }
+        },
+        {
+          "value": 260,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$260K / year"
+          }
+        },
+        {
+          "value": 260,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$260K / year"
+          }
+        },
+        {
+          "value": 260,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$260K / year"
+          }
+        },
+        {
+          "value": 260,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$260K / year"
+          }
+        },
+        {
+          "value": 260,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$260K / year"
+          }
+        },
+        {
+          "value": 268,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$268K / year"
+          }
+        },
+        {
+          "value": 300,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$300K / year"
+          }
+        },
+        {
+          "value": 300,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$300K / year"
+          }
+        },
+        {
+          "value": 300,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$300K / year"
+          }
+        },
+        {
+          "value": 300,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$300K / year"
+          }
+        },
+        {
+          "value": 320,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$320K / year"
+          }
+        },
+        {
+          "value": 350,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$350K / year"
+          }
+        },
+        {
+          "value": 400,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$400K / year"
+          }
+        },
+        {
+          "value": 450,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "JavaScript / TypeScript",
+            "Experience": "16+ years",
+            "Salary": "$450K / year"
+          }
+        }
+      ],
+      "yGroups": [
+        "<1 year",
+        "1\u20132 years",
+        "3\u20135 years",
+        "6\u201310 years",
+        "11\u201316 years",
+        "16+ years"
+      ],
+      "xRangeGroups": [
+        [
+          35,
+          90
+        ],
+        [
+          40,
+          150
+        ],
+        [
+          47,
+          223
+        ],
+        [
+          42,
+          360
+        ],
+        [
+          50,
+          450
+        ],
+        [
+          52,
+          450
+        ]
+      ],
+      "xRange": [
+        "$0K",
+        "$50K",
+        "$100K",
+        "$150K",
+        "$200K",
+        "$250K",
+        "$300K",
+        "$350K",
+        "$400K",
+        "$450K",
+        "$500K"
+      ]
+    },
+    "Java / Kotlin": {
+      "entries": [
+        {
+          "value": 55,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "1\u20132 years",
+            "Salary": "$55K / year"
+          }
+        },
+        {
+          "value": 76,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "1\u20132 years",
+            "Salary": "$76K / year"
+          }
+        },
+        {
+          "value": 84,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "1\u20132 years",
+            "Salary": "$84K / year"
+          }
+        },
+        {
+          "value": 90,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "1\u20132 years",
+            "Salary": "$90K / year"
+          }
+        },
+        {
+          "value": 90,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "1\u20132 years",
+            "Salary": "$90K / year"
+          }
+        },
+        {
+          "value": 92,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "1\u20132 years",
+            "Salary": "$92K / year"
+          }
+        },
+        {
+          "value": 93,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "1\u20132 years",
+            "Salary": "$93K / year"
+          }
+        },
+        {
+          "value": 98,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "1\u20132 years",
+            "Salary": "$98K / year"
+          }
+        },
+        {
+          "value": 102,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "1\u20132 years",
+            "Salary": "$102K / year"
+          }
+        },
+        {
+          "value": 106,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "1\u20132 years",
+            "Salary": "$106K / year"
+          }
+        },
+        {
+          "value": 110,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "1\u20132 years",
+            "Salary": "$110K / year"
+          }
+        },
+        {
+          "value": 110,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "1\u20132 years",
+            "Salary": "$110K / year"
+          }
+        },
+        {
+          "value": 116,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "1\u20132 years",
+            "Salary": "$116K / year"
+          }
+        },
+        {
+          "value": 117,
+          "category": "1\u20132 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "1\u20132 years",
+            "Salary": "$117K / year"
+          }
+        },
+        {
+          "value": 52,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$52K / year"
+          }
+        },
+        {
+          "value": 60,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$60K / year"
+          }
+        },
+        {
+          "value": 70,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$70K / year"
+          }
+        },
+        {
+          "value": 75,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$75K / year"
+          }
+        },
+        {
+          "value": 76,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$76K / year"
+          }
+        },
+        {
+          "value": 77,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$77K / year"
+          }
+        },
+        {
+          "value": 78,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$78K / year"
+          }
+        },
+        {
+          "value": 80,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$80K / year"
+          }
+        },
+        {
+          "value": 80,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$80K / year"
+          }
+        },
+        {
+          "value": 80,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$80K / year"
+          }
+        },
+        {
+          "value": 81,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$81K / year"
+          }
+        },
+        {
+          "value": 83,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$83K / year"
+          }
+        },
+        {
+          "value": 83,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$83K / year"
+          }
+        },
+        {
+          "value": 85,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$85K / year"
+          }
+        },
+        {
+          "value": 86,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$86K / year"
+          }
+        },
+        {
+          "value": 93,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$93K / year"
+          }
+        },
+        {
+          "value": 96,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$96K / year"
+          }
+        },
+        {
+          "value": 105,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$105K / year"
+          }
+        },
+        {
+          "value": 105,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$105K / year"
+          }
+        },
+        {
+          "value": 108,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$108K / year"
+          }
+        },
+        {
+          "value": 112,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$112K / year"
+          }
+        },
+        {
+          "value": 116,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$116K / year"
+          }
+        },
+        {
+          "value": 120,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$120K / year"
+          }
+        },
+        {
+          "value": 125,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$125K / year"
+          }
+        },
+        {
+          "value": 129,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$129K / year"
+          }
+        },
+        {
+          "value": 135,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$135K / year"
+          }
+        },
+        {
+          "value": 140,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$140K / year"
+          }
+        },
+        {
+          "value": 140,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$140K / year"
+          }
+        },
+        {
+          "value": 145,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$145K / year"
+          }
+        },
+        {
+          "value": 150,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$150K / year"
+          }
+        },
+        {
+          "value": 158,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$158K / year"
+          }
+        },
+        {
+          "value": 160,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$160K / year"
+          }
+        },
+        {
+          "value": 165,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$165K / year"
+          }
+        },
+        {
+          "value": 180,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$180K / year"
+          }
+        },
+        {
+          "value": 192,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$192K / year"
+          }
+        },
+        {
+          "value": 200,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$200K / year"
+          }
+        },
+        {
+          "value": 230,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$230K / year"
+          }
+        },
+        {
+          "value": 250,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$250K / year"
+          }
+        },
+        {
+          "value": 250,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$250K / year"
+          }
+        },
+        {
+          "value": 260,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$260K / year"
+          }
+        },
+        {
+          "value": 300,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$300K / year"
+          }
+        },
+        {
+          "value": 430,
+          "category": "3\u20135 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "3\u20135 years",
+            "Salary": "$430K / year"
+          }
+        },
+        {
+          "value": 47,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$47K / year"
+          }
+        },
+        {
+          "value": 47,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$47K / year"
+          }
+        },
+        {
+          "value": 47,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$47K / year"
+          }
+        },
+        {
+          "value": 47,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$47K / year"
+          }
+        },
+        {
+          "value": 77,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$77K / year"
+          }
+        },
+        {
+          "value": 90,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$90K / year"
+          }
+        },
+        {
+          "value": 97,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$97K / year"
+          }
+        },
+        {
+          "value": 100,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$100K / year"
+          }
+        },
+        {
+          "value": 104,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$104K / year"
+          }
+        },
+        {
+          "value": 110,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$110K / year"
+          }
+        },
+        {
+          "value": 114,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$114K / year"
+          }
+        },
+        {
+          "value": 120,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$120K / year"
+          }
+        },
+        {
+          "value": 123,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$123K / year"
+          }
+        },
+        {
+          "value": 123,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$123K / year"
+          }
+        },
+        {
+          "value": 124,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$124K / year"
+          }
+        },
+        {
+          "value": 124,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$124K / year"
+          }
+        },
+        {
+          "value": 125,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$125K / year"
+          }
+        },
+        {
+          "value": 125,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$125K / year"
+          }
+        },
+        {
+          "value": 130,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$130K / year"
+          }
+        },
+        {
+          "value": 130,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$130K / year"
+          }
+        },
+        {
+          "value": 130,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$130K / year"
+          }
+        },
+        {
+          "value": 130,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$130K / year"
+          }
+        },
+        {
+          "value": 134,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$134K / year"
+          }
+        },
+        {
+          "value": 135,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$135K / year"
+          }
+        },
+        {
+          "value": 135,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$135K / year"
+          }
+        },
+        {
+          "value": 135,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$135K / year"
+          }
+        },
+        {
+          "value": 136,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$136K / year"
+          }
+        },
+        {
+          "value": 136,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$136K / year"
+          }
+        },
+        {
+          "value": 140,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$140K / year"
+          }
+        },
+        {
+          "value": 140,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$140K / year"
+          }
+        },
+        {
+          "value": 145,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$145K / year"
+          }
+        },
+        {
+          "value": 146,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$146K / year"
+          }
+        },
+        {
+          "value": 150,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$150K / year"
+          }
+        },
+        {
+          "value": 155,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$155K / year"
+          }
+        },
+        {
+          "value": 157,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$157K / year"
+          }
+        },
+        {
+          "value": 160,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$160K / year"
+          }
+        },
+        {
+          "value": 160,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$160K / year"
+          }
+        },
+        {
+          "value": 160,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$160K / year"
+          }
+        },
+        {
+          "value": 160,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$160K / year"
+          }
+        },
+        {
+          "value": 160,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$160K / year"
+          }
+        },
+        {
+          "value": 180,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$180K / year"
+          }
+        },
+        {
+          "value": 190,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$190K / year"
+          }
+        },
+        {
+          "value": 195,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$195K / year"
+          }
+        },
+        {
+          "value": 225,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$225K / year"
+          }
+        },
+        {
+          "value": 230,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$230K / year"
+          }
+        },
+        {
+          "value": 240,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$240K / year"
+          }
+        },
+        {
+          "value": 240,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$240K / year"
+          }
+        },
+        {
+          "value": 240,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$240K / year"
+          }
+        },
+        {
+          "value": 241,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$241K / year"
+          }
+        },
+        {
+          "value": 250,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$250K / year"
+          }
+        },
+        {
+          "value": 260,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$260K / year"
+          }
+        },
+        {
+          "value": 270,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$270K / year"
+          }
+        },
+        {
+          "value": 300,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$300K / year"
+          }
+        },
+        {
+          "value": 350,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$350K / year"
+          }
+        },
+        {
+          "value": 350,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$350K / year"
+          }
+        },
+        {
+          "value": 360,
+          "category": "6\u201310 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "6\u201310 years",
+            "Salary": "$360K / year"
+          }
+        },
+        {
+          "value": 50,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$50K / year"
+          }
+        },
+        {
+          "value": 100,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$100K / year"
+          }
+        },
+        {
+          "value": 105,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$105K / year"
+          }
+        },
+        {
+          "value": 105,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$105K / year"
+          }
+        },
+        {
+          "value": 106,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$106K / year"
+          }
+        },
+        {
+          "value": 108,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$108K / year"
+          }
+        },
+        {
+          "value": 116,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$116K / year"
+          }
+        },
+        {
+          "value": 116,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$116K / year"
+          }
+        },
+        {
+          "value": 118,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$118K / year"
+          }
+        },
+        {
+          "value": 120,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$120K / year"
+          }
+        },
+        {
+          "value": 120,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$120K / year"
+          }
+        },
+        {
+          "value": 125,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$125K / year"
+          }
+        },
+        {
+          "value": 125,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$125K / year"
+          }
+        },
+        {
+          "value": 125,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$125K / year"
+          }
+        },
+        {
+          "value": 126,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$126K / year"
+          }
+        },
+        {
+          "value": 129,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$129K / year"
+          }
+        },
+        {
+          "value": 130,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$130K / year"
+          }
+        },
+        {
+          "value": 132,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$132K / year"
+          }
+        },
+        {
+          "value": 140,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$140K / year"
+          }
+        },
+        {
+          "value": 140,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$140K / year"
+          }
+        },
+        {
+          "value": 144,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$144K / year"
+          }
+        },
+        {
+          "value": 150,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$150K / year"
+          }
+        },
+        {
+          "value": 153,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$153K / year"
+          }
+        },
+        {
+          "value": 160,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$160K / year"
+          }
+        },
+        {
+          "value": 160,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$160K / year"
+          }
+        },
+        {
+          "value": 165,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$165K / year"
+          }
+        },
+        {
+          "value": 165,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$165K / year"
+          }
+        },
+        {
+          "value": 170,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$170K / year"
+          }
+        },
+        {
+          "value": 180,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$180K / year"
+          }
+        },
+        {
+          "value": 180,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$180K / year"
+          }
+        },
+        {
+          "value": 180,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$180K / year"
+          }
+        },
+        {
+          "value": 185,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$185K / year"
+          }
+        },
+        {
+          "value": 190,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$190K / year"
+          }
+        },
+        {
+          "value": 195,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$195K / year"
+          }
+        },
+        {
+          "value": 195,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$195K / year"
+          }
+        },
+        {
+          "value": 197,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$197K / year"
+          }
+        },
+        {
+          "value": 200,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$200K / year"
+          }
+        },
+        {
+          "value": 200,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$200K / year"
+          }
+        },
+        {
+          "value": 200,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$200K / year"
+          }
+        },
+        {
+          "value": 200,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$200K / year"
+          }
+        },
+        {
+          "value": 205,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$205K / year"
+          }
+        },
+        {
+          "value": 210,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$210K / year"
+          }
+        },
+        {
+          "value": 210,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$210K / year"
+          }
+        },
+        {
+          "value": 230,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$230K / year"
+          }
+        },
+        {
+          "value": 250,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$250K / year"
+          }
+        },
+        {
+          "value": 250,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$250K / year"
+          }
+        },
+        {
+          "value": 290,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$290K / year"
+          }
+        },
+        {
+          "value": 300,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$300K / year"
+          }
+        },
+        {
+          "value": 300,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$300K / year"
+          }
+        },
+        {
+          "value": 300,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$300K / year"
+          }
+        },
+        {
+          "value": 305,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$305K / year"
+          }
+        },
+        {
+          "value": 350,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$350K / year"
+          }
+        },
+        {
+          "value": 370,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$370K / year"
+          }
+        },
+        {
+          "value": 500,
+          "category": "11\u201316 years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "11\u201316 years",
+            "Salary": "$500K / year"
+          }
+        },
+        {
+          "value": 92,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$92K / year"
+          }
+        },
+        {
+          "value": 94,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$94K / year"
+          }
+        },
+        {
+          "value": 100,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$100K / year"
+          }
+        },
+        {
+          "value": 100,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$100K / year"
+          }
+        },
+        {
+          "value": 100,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$100K / year"
+          }
+        },
+        {
+          "value": 107,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$107K / year"
+          }
+        },
+        {
+          "value": 110,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$110K / year"
+          }
+        },
+        {
+          "value": 110,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$110K / year"
+          }
+        },
+        {
+          "value": 114,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$114K / year"
+          }
+        },
+        {
+          "value": 120,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$120K / year"
+          }
+        },
+        {
+          "value": 125,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$125K / year"
+          }
+        },
+        {
+          "value": 125,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$125K / year"
+          }
+        },
+        {
+          "value": 128,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$128K / year"
+          }
+        },
+        {
+          "value": 130,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$130K / year"
+          }
+        },
+        {
+          "value": 130,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$130K / year"
+          }
+        },
+        {
+          "value": 130,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$130K / year"
+          }
+        },
+        {
+          "value": 130,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$130K / year"
+          }
+        },
+        {
+          "value": 135,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$135K / year"
+          }
+        },
+        {
+          "value": 140,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$140K / year"
+          }
+        },
+        {
+          "value": 140,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$140K / year"
+          }
+        },
+        {
+          "value": 146,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$146K / year"
+          }
+        },
+        {
+          "value": 152,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$152K / year"
+          }
+        },
+        {
+          "value": 156,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$156K / year"
+          }
+        },
+        {
+          "value": 156,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$156K / year"
+          }
+        },
+        {
+          "value": 160,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$160K / year"
+          }
+        },
+        {
+          "value": 160,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$160K / year"
+          }
+        },
+        {
+          "value": 160,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$160K / year"
+          }
+        },
+        {
+          "value": 165,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$165K / year"
+          }
+        },
+        {
+          "value": 165,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$165K / year"
+          }
+        },
+        {
+          "value": 165,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$165K / year"
+          }
+        },
+        {
+          "value": 170,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$170K / year"
+          }
+        },
+        {
+          "value": 170,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$170K / year"
+          }
+        },
+        {
+          "value": 170,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$170K / year"
+          }
+        },
+        {
+          "value": 170,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$170K / year"
+          }
+        },
+        {
+          "value": 170,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$170K / year"
+          }
+        },
+        {
+          "value": 172,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$172K / year"
+          }
+        },
+        {
+          "value": 175,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$175K / year"
+          }
+        },
+        {
+          "value": 175,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$175K / year"
+          }
+        },
+        {
+          "value": 180,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Language": "Java / Kotlin",
+            "Experience": "16+ years",
+            "Salary": "$180K / year"
+          }
+        },
+        {
+          "value": 180,
+          "category": "16+ years",
+          "metadata": {
+            "Country": "United States",
+            "Languag
+            calculatorData.json
+            calculatorData.json wordt weergegeven.
