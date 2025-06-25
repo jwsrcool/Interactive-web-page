@@ -2,6 +2,7 @@ import { Component, inject } from '@angular/core';
 import { SalaryFormComponent } from './components/salary-form/salary-form.component';
 import { SalaryResultComponent } from './components/salary-result/salary-result.component';
 import { SalaryDataService, SalaryEntry } from './services/salary-data.service';
+import { NgOptimizedImage } from '@angular/common';
 
 interface FormData {
   country: string;
@@ -13,7 +14,8 @@ interface FormData {
   templateUrl: './app.component.html',
   imports: [
     SalaryFormComponent,
-    SalaryResultComponent
+    SalaryResultComponent,
+    NgOptimizedImage
   ]
 })
 export class AppComponent {

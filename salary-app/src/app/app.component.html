@@ -1,5 +1,23 @@
-<div class="app-container">
-  <h1>JetBrains Salary Checker</h1>
-  <app-salary-form (formSubmitted)="onFormSubmit($event)" />
-  <app-salary-result [entries]="filteredSalaries" />
+<div class="jetbrains-app">
+  <header class="header">
+    <div class="header-content">
+      <div class="logo-section">
+        <img src="assets/images/spirit.svg" alt="JetBrains" class="logo" height="608" width="1112">
+      </div>
+      <h1>Developer Ecosystem Survey</h1>
+      <div class="subtitle">
+        Check salary expectations for your location and technology stack
+      </div>
+    </div>
+  </header>
+
+  <main class="main-content">
+    <div class="container">
+      <app-salary-form (formSubmitted)="onFormSubmit($event)"/>
+      <app-salary-result [entries]="filteredSalaries"/>
+    </div>
+  </main>
 </div>
+
+
+<!--next prompt: oke, de spirit is nu heel klein, maar in het origineel bijna over de hele breedte. daarnaast heeft het origineel de twee blokken naast elkaar. En er is ook nog wat intro tekst die ik mis. Bovendien is de achtergrond zwart, met paarse/donkere blokken erop. het is nog steeds wel heel anders dan wat ik hier zie-->

@@ -1,44 +1,81 @@
-<form [formGroup]="form" (ngSubmit)="onSubmit()" class="salary-form">
-  <div class="form-group">
-    <label for="country">Country:</label>
-    <select
-      id="country"
-      formControlName="country"
-      class="form-control"
-      [class.error]="countryControl?.invalid && countryControl?.touched">
-      <option value="" disabled>Select country</option>
-      @for(country of countries; track country) {
-        <option [value]="country">{{ country }}</option>
-      }
-    </select>
-    @if(countryControl?.invalid && countryControl?.touched) {
-      <span class="error-message">Please select a country</span>
-    }
-  </div>
+<div class="salary-form-container">
+  <h2>Salary Information</h2>
+  <p class="form-description">
+    Select your location and primary programming language to see salary expectations.
+  </p>
 
-  <div class="form-group">
-    <label for="language">Language:</label>
-    <select
-      id="language"
-      formControlName="language"
-      class="form-control"
-      [class.error]="languageControl?.invalid && languageControl?.touched">
-      <option value="" disabled>
-        {{ isLoadingLanguages ? 'Loading languages...' : 'Select language' }}
-      </option>
-      @for(language of languages; track language) {
-        <option [value]="language">{{ language }}</option>
-      }
-    </select>
-    @if(languageControl?.invalid && languageControl?.touched) {
-      <span class="error-message">Please select a language</span>
-    }
-  </div>
+  <form [formGroup]="form" (ngSubmit)="onSubmit()" class="jetbrains-form">
+    <div class="form-row">
+      <div class="form-group">
+        <label for="country" class="form-label">
+          Country/Region
+          <span class="required">*</span>
+        </label>
+        <div class="select-wrapper">
+          <select
+            id="country"
+            formControlName="country"
+            class="form-select"
+            [class.error]="countryControl?.invalid && countryControl?.touched">
+            <option value="" disabled>Select country</option>
+            @for(country of countries; track country) {
+              <option [value]="country">{{ country }}</option>
+            }
+          </select>
+          <div class="select-arrow">
+            <svg width="12" height="8" viewBox="0 0 12 8" fill="none">
+              <path d="M1 1.5L6 6.5L11 1.5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </div>
+        </div>
+        @if(countryControl?.invalid && countryControl?.touched) {
+          <div class="error-message">Please select a country</div>
+        }
+      </div>
 
-  <button
-    type="submit"
-    class="submit-button"
-    [disabled]="form.invalid || isLoadingLanguages">
-    Check Salary
-  </button>
-</form>
+      <div class="form-group">
+        <label for="language" class="form-label">
+          Primary Programming Language
+          <span class="required">*</span>
+        </label>
+        <div class="select-wrapper">
+          <select
+            id="language"
+            formControlName="language"
+            class="form-select"
+            [class.error]="languageControl?.invalid && languageControl?.touched"
+            [class.loading]="isLoadingLanguages">
+            <option value="" disabled>
+              {{ isLoadingLanguages ? 'Loading languages...' : 'Select language' }}
+            </option>
+            @for(language of languages; track language) {
+              <option [value]="language">{{ language }}</option>
+            }
+          </select>
+          <div class="select-arrow">
+            @if(isLoadingLanguages) {
+              <div class="loading-spinner"></div>
+            } @else {
+              <svg width="12" height="8" viewBox="0 0 12 8" fill="none">
+                <path d="M1 1.5L6 6.5L11 1.5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            }
+          </div>
+        </div>
+        @if(languageControl?.invalid && languageControl?.touched) {
+          <div class="error-message">Please select a programming language</div>
+        }
+      </div>
+    </div>
+
+    <button
+      type="submit"
+      class="submit-button"
+      [disabled]="form.invalid || isLoadingLanguages">
+      <span>Show Results</span>
+      <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+        <path d="M6 12L10 8L6 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </button>
+  </form>
+</div>
