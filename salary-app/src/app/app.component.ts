@@ -1,29 +1,33 @@
 import { Component, inject } from '@angular/core';
-
 import { SalaryFormComponent } from './components/salary-form/salary-form.component';
 import { SalaryResultComponent } from './components/salary-result/salary-result.component';
-import { SalaryDataService } from './services/salary-data.service';
+import { SalaryDataService, SalaryEntry } from './services/salary-data.service';
+
+interface FormData {
+  country: string;
+  language: string;
+}
 
 @Component({
   selector: 'app-root',
-  imports: [ SalaryFormComponent, SalaryResultComponent],
   templateUrl: './app.component.html',
-  styleUrl: './app.component.css'
+  imports: [
+    SalaryFormComponent,
+    SalaryResultComponent
+  ]
 })
 export class AppComponent {
-  title = 'salary-app';
-  filteredSalaries: number[] = [];
-  private salaryDataService: SalaryDataService = inject(SalaryDataService);
+  filteredSalaries: SalaryEntry[] = [];
 
+  private salaryService = inject(SalaryDataService);
 
-  onFormSubmit(selection: { country: string; language: string; experience: string }) {
-    console.log('Form selection received:', selection);
-    this.salaryDataService
-      .getSalaries(selection.country, selection.language)
-      .subscribe((salaries) => {
-        console.log('Salaries fetched:', salaries);
+  onFormSubmit(formData: FormData) {
+    console.log('Form submitted:', formData);
+
+    this.salaryService.getSalaries(formData.country, formData.language)
+      .subscribe(salaries => {
         this.filteredSalaries = salaries;
+        console.log('Received salaries:', salaries);
       });
   }
-
 }

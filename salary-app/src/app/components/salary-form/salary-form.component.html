@@ -1,0 +1,44 @@
+<form [formGroup]="form" (ngSubmit)="onSubmit()" class="salary-form">
+  <div class="form-group">
+    <label for="country">Country:</label>
+    <select
+      id="country"
+      formControlName="country"
+      class="form-control"
+      [class.error]="countryControl?.invalid && countryControl?.touched">
+      <option value="" disabled>Select country</option>
+      @for(country of countries; track country) {
+        <option [value]="country">{{ country }}</option>
+      }
+    </select>
+    @if(countryControl?.invalid && countryControl?.touched) {
+      <span class="error-message">Please select a country</span>
+    }
+  </div>
+
+  <div class="form-group">
+    <label for="language">Language:</label>
+    <select
+      id="language"
+      formControlName="language"
+      class="form-control"
+      [class.error]="languageControl?.invalid && languageControl?.touched">
+      <option value="" disabled>
+        {{ isLoadingLanguages ? 'Loading languages...' : 'Select language' }}
+      </option>
+      @for(language of languages; track language) {
+        <option [value]="language">{{ language }}</option>
+      }
+    </select>
+    @if(languageControl?.invalid && languageControl?.touched) {
+      <span class="error-message">Please select a language</span>
+    }
+  </div>
+
+  <button
+    type="submit"
+    class="submit-button"
+    [disabled]="form.invalid || isLoadingLanguages">
+    Check Salary
+  </button>
+</form>

@@ -1,0 +1,135 @@
+.salary-results {
+  background: white;
+  border-radius: 12px;
+  padding: 24px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-top: 24px;
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+  margin-bottom: 32px;
+}
+
+.stat-card {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.stat-card h3 {
+  margin: 0 0 8px 0;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  opacity: 0.9;
+}
+
+.stat-value {
+  font-size: 28px;
+  font-weight: bold;
+  margin: 8px 0;
+}
+
+.stat-label {
+  font-size: 12px;
+  opacity: 0.8;
+}
+
+.chart-section h3 {
+  margin-bottom: 20px;
+  color: #333;
+  font-size: 18px;
+}
+
+.css-chart {
+  background: #f8f9fa;
+  border-radius: 8px;
+  padding: 20px;
+}
+
+.bar-container {
+  margin-bottom: 16px;
+  padding: 12px 0;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.bar-container:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+}
+
+.bar-label {
+  font-weight: 600;
+  color: #495057;
+  margin-bottom: 8px;
+  text-transform: capitalize;
+}
+
+.bar-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 4px;
+}
+
+.bar {
+  height: 24px;
+  background: linear-gradient(90deg, #007bff, #0056b3);
+  border-radius: 4px;
+  min-width: 20px;
+  transition: width 0.3s ease;
+}
+
+.bar-value {
+  font-weight: 600;
+  color: #007bff;
+  font-size: 14px;
+}
+
+.bar-count {
+  font-size: 12px;
+  color: #6c757d;
+}
+
+.no-data {
+  text-align: center;
+  padding: 60px 20px;
+  color: #6c757d;
+}
+
+.no-data-icon {
+  font-size: 48px;
+  margin-bottom: 16px;
+}
+
+.no-data h3 {
+  margin: 0 0 8px 0;
+  color: #495057;
+}
+
+.no-data p {
+  margin: 0;
+  line-height: 1.5;
+}
+
+@media (max-width: 768px) {
+  .stats-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .bar-wrapper {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+  }
+
+  .bar {
+    width: 100% !important;
+    max-width: 200px;
+  }
+}

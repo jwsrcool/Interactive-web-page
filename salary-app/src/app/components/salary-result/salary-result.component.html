@@ -1,0 +1,43 @@
+<div class="salary-results">
+  @if (count() > 0) {
+    <div class="stats-grid">
+      <div class="stat-card">
+        <h3>Average Salary</h3>
+        <div class="stat-value">${{ average() }}K</div>
+        <div class="stat-label">per year</div>
+      </div>
+      <div class="stat-card">
+        <h3>Sample Size</h3>
+        <div class="stat-value">{{ count() }}</div>
+        <div class="stat-label">entries</div>
+      </div>
+    </div>
+
+    @if (categoryStats().length > 0) {
+      <div class="chart-section">
+        <h3>Salary by Experience Level</h3>
+        <div class="css-chart">
+          @for (stat of categoryStats(); track stat.category) {
+            <div class="bar-container">
+              <div class="bar-label">{{ stat.category }}</div>
+              <div class="bar-wrapper">
+                <div
+                  class="bar"
+                  [style.width.%]="(stat.average / maxSalary()) * 100">
+                </div>
+                <span class="bar-value">${{ stat.average }}K</span>
+              </div>
+              <div class="bar-count">{{ stat.count }} entries</div>
+            </div>
+          }
+        </div>
+      </div>
+    }
+  } @else {
+    <div class="no-data">
+      <div class="no-data-icon">📊</div>
+      <h3>No salary data available</h3>
+      <p>Try selecting a different country or programming language combination.</p>
+    </div>
+  }
+</div>

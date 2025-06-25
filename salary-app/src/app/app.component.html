@@ -1,2 +1,5 @@
-<app-salary-form (formSubmitted)="onFormSubmit($event)" />
-<app-salary-result [salaries]="filteredSalaries" />
+<div class="app-container">
+  <h1>JetBrains Salary Checker</h1>
+  <app-salary-form (formSubmitted)="onFormSubmit($event)" />
+  <app-salary-result [entries]="filteredSalaries" />
+</div>
