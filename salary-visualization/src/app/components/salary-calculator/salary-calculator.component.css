@@ -1,0 +1,13 @@
+.calculator-container {
+  width: 100%;
+  box-sizing: border-box; /* Add this to include padding in width calculation */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background: linear-gradient(180deg, #7F52FF 0%, #2b2b2b 50%);
+  color: white;
+}
+
+.header {
+  height: 200px;
+}

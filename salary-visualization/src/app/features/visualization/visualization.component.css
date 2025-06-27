@@ -1,0 +1,199 @@
+.visualization-container {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background: linear-gradient(180deg, #7F52FF 0%, #2b2b2b 50%);
+  color: white;
+}
+
+.text-box {
+  height: 200px;
+}
+
+.visualization-container h2 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 24px;
+  color: #ffffff;
+  padding: 20px;
+}
+
+.visualization-container p {
+  margin-top: 0;
+  margin-bottom: 20px;
+  color: #ffffff;
+  padding: 0px 20px;
+}
+
+.content-card {
+  background-color: #ffffff;
+  color: #000000;
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 10px;
+}
+
+.content-card p {
+  color: #000000;
+}
+
+.insights {
+  padding-bottom: 10px;
+}
+
+.insights p {
+  color: #000000 !important;
+}
+
+.chart-intro {
+  font-size: 30px;
+  line-height: 1.4;
+  margin: 0 0 15px 0;
+  color: #000000 !important;
+}
+
+.highlight {
+  color: #7F52FF;
+  font-weight: 600;
+}
+
+/* Chart styling */
+.salary-chart {
+  margin-top: 40px;
+  position: relative;
+  padding-right: 80px; /* Space for y-axis labels on the right */
+  padding-bottom: 40px; /* Space for x-axis labels */
+  padding-left: 20px; /* Some padding on the left */
+}
+
+.x-axis {
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  bottom: 0;
+  left: 20px;
+  right: 80px;
+}
+
+.x-label {
+  font-size: 12px;
+  color: #666;
+  transform: translateX(-50%);
+}
+
+/* Grid lines */
+.grid-lines {
+  position: absolute;
+  top: 0;
+  bottom: 40px; /* Same as padding-bottom */
+  left: 20px;
+  right: 80px;
+  display: flex;
+  justify-content: space-between;
+  pointer-events: none;
+}
+
+.grid-line {
+  width: 1px;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.chart-lines {
+  position: relative;
+}
+
+.level-line {
+  display: flex;
+  align-items: center;
+  height: 50px;
+  margin-bottom: 15px;
+  position: relative;
+}
+
+.y-label {
+  position: absolute;
+  right: -80px; /* Position on the right */
+  width: 70px;
+  text-align: left; /* Align text to the left */
+  font-weight: 600;
+  color: #333;
+}
+
+.line-container {
+  flex-grow: 1;
+  height: 2px;
+  position: relative;
+}
+
+.line {
+  position: absolute;
+  height: 2px;
+  background: linear-gradient(90deg, #7F52FF 0%, #9B6DFF 100%);
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.data-point {
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  background-color: #7F52FF;
+  border-radius: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.data-point:hover {
+  width: 16px;
+  height: 16px;
+  box-shadow: 0 0 8px rgba(127, 82, 255, 0.6);
+}
+
+/* Chart footer styling */
+.chart-footer {
+  margin-top: 40px;
+  padding-top: 20px;
+  border-top: 1px solid #eee;
+}
+
+.chart-description {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 15px;
+}
+
+.chart-note {
+  display: flex;
+  align-items: flex-start;
+  background-color: #f5f5f5;
+  padding: 12px 15px;
+  border-radius: 6px;
+}
+
+.info-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #7F52FF;
+  color: white;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 14px;
+  margin-right: 10px;
+  flex-shrink: 0;
+}
+
+.chart-note p {
+  font-size: 13px;
+  color: #555;
+  margin: 0;
+  padding: 0;
+}

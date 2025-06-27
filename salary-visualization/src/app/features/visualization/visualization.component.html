@@ -1,0 +1,49 @@
+<div class="visualization-container">
+  <div class="text-box">
+    <h2>2</h2>
+    <p>Calculate the salary range based on your parameters.</p>
+  </div>
+
+  <div class="content-card">
+    <div class="insights">
+      <p class="chart-intro">Coding specialists from <span class="highlight">{{ country || 'United States' }}</span> who use <span class="highlight">{{ language || 'JavaScript' }}</span> reported to have the following gross annual salaries (in USD including bonuses) in 2024:</p>
+    </div>
+
+    <div class="salary-chart">
+      <!-- X-axis labels -->
+      <div class="x-axis">
+        <div class="x-label" *ngFor="let value of xAxisValues">{{ formatSalary(value) }}</div>
+      </div>
+
+      <!-- Grid lines -->
+      <div class="grid-lines">
+        <div class="grid-line" *ngFor="let value of xAxisValues"></div>
+      </div>
+
+      <!-- Chart lines -->
+      <div class="chart-lines">
+        <div class="level-line" *ngFor="let level of reversedSalaryRanges">
+          <div class="y-label">{{ level.level }}</div>
+          <div class="line-container">
+            <div class="line" [style.left.%]="level.minPercent" [style.width.%]="level.rangePercent"></div>
+            <div class="data-point"
+                 *ngFor="let point of level.dataPoints"
+                 [style.left.%]="point.percent"
+                 [style.opacity]="point.frequency"
+                 [title]="formatSalary(point.value)">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="chart-footer">
+      <p class="chart-description">The graph shows salary distribution among users of the selected technology in the specified region, based on responses from Developer Ecosystem Survey 2024</p>
+
+      <div class="chart-note">
+        <span class="info-icon">i</span>
+        <p>Note: Experience levels refer to total years of professional coding, not years using the selected technology.</p>
+      </div>
+    </div>
+  </div>
+</div>

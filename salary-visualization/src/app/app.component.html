@@ -1,0 +1,22 @@
+<div class="app-container">
+  <div class="background-svg">
+    <img src="../assets/images/spirital-7a69e459de5e1b6afeb560734ebeffc4.svg" alt="Background pattern">
+  </div>
+  <div class="intro">
+    <h1>IT Salary Calculator</h1>
+  </div>
+  <div class="intro-text">
+      <p>Each year, our extensive surveys reach out to over 30,000 developers across over 180 countries, representing a diverse range of specialties. With data collected over multiple years, we are able to present a comprehensive analysis of tech trends using the methodology described here.</p>
+      <p class="big">Use our calculator to estimate your income potential based on software developer skills, programming language, location, and experience.</p>
+    </div>
+  </div>
+
+  <div class="layout-container">
+    <app-salary-calculator #calculator></app-salary-calculator>
+
+    <app-visualization
+      [country]="calculator.selectedCountry"
+      [language]="calculator.selectedLanguage">
+    </app-visualization>
+  </div>
+
