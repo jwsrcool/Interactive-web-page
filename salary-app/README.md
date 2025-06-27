@@ -1,59 +1,68 @@
 # SalaryApp
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.11.
+SalaryApp is an interactive data visualization based on developer salary data from the **JetBrains Developer Ecosystem Survey 2024**. This app replicates the functionality of the [JetBrains IT Salary Calculator](https://www.jetbrains.com/lp/devecosystem-it-salary-calculator/).
 
-## Development server
+This version was developed in **IntelliJ IDEA**, with help from ChatGPT.
 
-To start a local development server, run:
+---
+
+## 📌 About this project
+
+SalaryApp allows users to select their primary programming language and country. As soon as both fields are filled, the app immediately displays an estimated salary range. The entire application is built client-side using Angular.
+
+---
+
+## 🚀 Installation & Development
+
+1. Install the dependencies:
+   ```bash
+   npm install
+2. Start the developement server:
+    ```bash
+   ng serve
+3. Open your browser at http://localhost:4200/.
+The app will automatically reload when you change any of the source files.
+
+## ✨ Key Features 
+
+✅ Dynamic form with automatic submission as soon as both fields are filled
+✅ Overlapping layout of the form and results section
+✅ Interactive salary range visualization (chart)
+✅ Logic and data closely modeled on the original JetBrains salary calculator
+
+## 🛠️ Building
+
+To build the project for production:
 
 ```bash
-ng serve
-```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
-
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
 ng build
 ```
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+---
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+## ✅ Unit Tests
 
-```bash
-ng test
-```
+No unit tests have been implemented yet.
 
-## Running end-to-end tests
+---
 
-For end-to-end (e2e) testing, run:
+## ⚡ End-to-End Tests
 
-```bash
-ng e2e
-```
+No end-to-end (e2e) tests have been implemented yet.
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+---
 
-## Additional Resources
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+## 📄 License
+
+This project does not yet include a license.
+
+---
+
+## 📚 Additional Information
+
+- Built with [Angular CLI](https://angular.dev/tools/cli) version 19.2.11
+- Inspired by the original [JetBrains Salary Calculator](https://www.jetbrains.com/lp/devecosystem-it-salary-calculator/)

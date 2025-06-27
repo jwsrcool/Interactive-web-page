@@ -272,7 +272,7 @@ body {
 
 .background-extender {
   background: black;
-  min-height: 1000px;
+  min-height: 900px;
   width: 100%;
 }
 
@@ -353,7 +353,7 @@ body {
 }
 
 .currency, .unit {
-  font-size: 1.5rem;
+  font-size: 1rem;
   font-weight: 600;
 }
 
