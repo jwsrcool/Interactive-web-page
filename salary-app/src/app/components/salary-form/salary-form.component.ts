@@ -28,6 +28,12 @@ export class SalaryFormComponent implements OnInit {
     this.initializeForm();
     this.loadCountries();
     this.setupCountryChangeHandler();
+
+    this.form.valueChanges.subscribe(() => {
+      if(this.form.valid && !this.isLoadingLanguages) {
+        this.onSubmit();
+      }
+    })
   }
 
   private initializeForm() {

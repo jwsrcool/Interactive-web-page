@@ -38,8 +38,8 @@ export class SalaryDataService {
   getSalaries(country: string, language: string): Observable<SalaryEntry[]> {
     return this.data$.pipe(
       map(data => {
-        console.log('Data loaded:', data); // check hele dataset
-        console.log('Looking for:', country, language);
+        // console.log('Data loaded:', data); // check hele dataset
+        // console.log('Looking for:', country, language);
 
         const countryData = data[country];
         if (!countryData) {
@@ -52,21 +52,11 @@ export class SalaryDataService {
           console.warn(`No data for language: ${language} in country: ${country}`);
           return [];
         }
-
-        // Retourneer de volledige entries in plaats van alleen values
-        const entries = langData.entries || [];
-        console.log('Found entries:', entries);
-        return entries;
+        return langData.entries || [];
       })
     );
   }
 
-  // Optioneel: behoud oude methode voor backwards compatibility
-  getSalaryValues(country: string, language: string): Observable<number[]> {
-    return this.getSalaries(country, language).pipe(
-      map(entries => entries.map(entry => entry.value))
-    );
-  }
 
   // Filter op experience level
   getSalariesByExperience(country: string, language: string, experience: string): Observable<SalaryEntry[]> {
@@ -78,9 +68,7 @@ export class SalaryDataService {
   getCountries(): Observable<string[]> {
     return this.data$.pipe(
       map(data => {
-        const countries = Object.keys(data);
-        console.log('Available countries:', countries);
-        return countries;
+        return Object.keys(data);
       })
     );
   }
@@ -88,9 +76,7 @@ export class SalaryDataService {
   getLanguages(country: string): Observable<string[]> {
     return this.data$.pipe(
       map(data => {
-        const languages = Object.keys(data[country] || {});
-        console.log(`Languages for ${country}:`, languages);
-        return languages;
+        return Object.keys(data[country] || {});
       })
     );
   }

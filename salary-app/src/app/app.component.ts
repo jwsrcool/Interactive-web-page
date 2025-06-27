@@ -2,7 +2,6 @@ import { Component, inject } from '@angular/core';
 import { SalaryFormComponent } from './components/salary-form/salary-form.component';
 import { SalaryResultComponent } from './components/salary-result/salary-result.component';
 import { SalaryDataService, SalaryEntry } from './services/salary-data.service';
-import { NgOptimizedImage } from '@angular/common';
 
 interface FormData {
   country: string;
@@ -14,8 +13,7 @@ interface FormData {
   templateUrl: './app.component.html',
   imports: [
     SalaryFormComponent,
-    SalaryResultComponent,
-    NgOptimizedImage
+    SalaryResultComponent
   ]
 })
 export class AppComponent {
@@ -24,12 +22,12 @@ export class AppComponent {
   private salaryService = inject(SalaryDataService);
 
   onFormSubmit(formData: FormData) {
-    console.log('Form submitted:', formData);
+    // console.log('Form submitted:', formData);
 
     this.salaryService.getSalaries(formData.country, formData.language)
       .subscribe(salaries => {
         this.filteredSalaries = salaries;
-        console.log('Received salaries:', salaries);
+        // console.log('Received salaries:', salaries);
       });
   }
 }

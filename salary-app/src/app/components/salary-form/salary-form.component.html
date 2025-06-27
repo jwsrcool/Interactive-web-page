@@ -1,7 +1,7 @@
 <div class="salary-form-container">
-  <h2>Salary Information</h2>
+  <h2>1</h2>
   <p class="form-description">
-    Select your location and primary programming language to see salary expectations.
+    Enter your programming language, and country.
   </p>
 
   <form [formGroup]="form" (ngSubmit)="onSubmit()" class="jetbrains-form">
@@ -9,7 +9,7 @@
       <div class="form-group">
         <label for="country" class="form-label">
           Country/Region
-          <span class="required">*</span>
+
         </label>
         <div class="select-wrapper">
           <select
@@ -18,7 +18,7 @@
             class="form-select"
             [class.error]="countryControl?.invalid && countryControl?.touched">
             <option value="" disabled>Select country</option>
-            @for(country of countries; track country) {
+            @for (country of countries; track country) {
               <option [value]="country">{{ country }}</option>
             }
           </select>
@@ -28,7 +28,7 @@
             </svg>
           </div>
         </div>
-        @if(countryControl?.invalid && countryControl?.touched) {
+        @if (countryControl?.invalid && countryControl?.touched) {
           <div class="error-message">Please select a country</div>
         }
       </div>
@@ -36,7 +36,7 @@
       <div class="form-group">
         <label for="language" class="form-label">
           Primary Programming Language
-          <span class="required">*</span>
+         
         </label>
         <div class="select-wrapper">
           <select
@@ -48,12 +48,12 @@
             <option value="" disabled>
               {{ isLoadingLanguages ? 'Loading languages...' : 'Select language' }}
             </option>
-            @for(language of languages; track language) {
+            @for (language of languages; track language) {
               <option [value]="language">{{ language }}</option>
             }
           </select>
           <div class="select-arrow">
-            @if(isLoadingLanguages) {
+            @if (isLoadingLanguages) {
               <div class="loading-spinner"></div>
             } @else {
               <svg width="12" height="8" viewBox="0 0 12 8" fill="none">
@@ -62,20 +62,20 @@
             }
           </div>
         </div>
-        @if(languageControl?.invalid && languageControl?.touched) {
+        @if (languageControl?.invalid && languageControl?.touched) {
           <div class="error-message">Please select a programming language</div>
         }
       </div>
     </div>
 
-    <button
-      type="submit"
-      class="submit-button"
-      [disabled]="form.invalid || isLoadingLanguages">
-      <span>Show Results</span>
-      <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
-        <path d="M6 12L10 8L6 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-      </svg>
-    </button>
+    <!--    <button-->
+    <!--      type="submit"-->
+    <!--      class="submit-button"-->
+    <!--      [disabled]="form.invalid || isLoadingLanguages">-->
+    <!--      <span>Show Results</span>-->
+    <!--      <svg width="16" height="16" viewBox="0 0 16 16" fill="none">-->
+    <!--        <path d="M6 12L10 8L6 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>-->
+    <!--      </svg>-->
+    <!--    </button>-->
   </form>
 </div>

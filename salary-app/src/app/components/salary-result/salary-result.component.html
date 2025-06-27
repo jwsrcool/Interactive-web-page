@@ -1,81 +1,64 @@
-<div class="salary-results-container">
-  @if (count() > 0) {
-    <div class="results-header">
-      <h2>Salary Expectations</h2>
-      <p class="results-description">
-        Based on {{ count() }} responses from our Developer Ecosystem Survey
-      </p>
-    </div>
+<div class="salary-results-wrapper">
+  <div class="upper-salary-results-container">
+    <h2>2</h2>
+    <p>Calculate the salary range based on your parameters</p>
+  </div>
+  <div class="under-salary-results-container">
+    @if (count() > 0) {
 
-    <div class="stats-overview">
-      <div class="primary-stat">
-        <div class="stat-label">Average Annual Salary</div>
-        <div class="stat-value">
-          <span class="currency">$</span>{{ average() }}<span class="unit">K</span>
-        </div>
-        <div class="stat-subtitle">USD per year</div>
-      </div>
-
-      <div class="secondary-stats">
-        <div class="stat-item">
-          <div class="stat-number">{{ count() }}</div>
-          <div class="stat-text">Survey Responses</div>
-        </div>
-        <div class="stat-item">
-          <div class="stat-number">{{ categoryStats().length }}</div>
-          <div class="stat-text">Experience Levels</div>
-        </div>
-      </div>
-    </div>
-
-    @if (categoryStats().length > 0) {
-      <div class="experience-breakdown">
-        <h3>Breakdown by Experience Level</h3>
-        <div class="experience-chart">
-          @for (stat of categoryStats(); track stat.category) {
-            <div class="experience-row">
-              <div class="experience-info">
-                <div class="experience-label">{{ stat.category }}</div>
-                <div class="experience-count">{{ stat.count }} responses</div>
-              </div>
-              <div class="experience-bar-container">
-                <div class="experience-bar-track">
-                  <div
-                    class="experience-bar"
-                    [style.width.%]="(stat.average / maxSalary()) * 100"
-                    [attr.data-level]="stat.category">
+      @if (categoryStats().length > 0) {
+        <div class="experience-breakdown">
+          <h3>Breakdown by Experience Level</h3>
+          <div class="experience-chart">
+            @for (stat of categoryStats(); track stat.category) {
+              <div class="experience-row">
+                <div class="experience-info">
+                  <div class="experience-label">{{ stat.category }}</div>
+                  <div class="experience-count">{{ stat.count }} responses</div>
+                </div>
+                <div class="experience-bar-container">
+                  <div class="experience-bar-track">
+                    <div
+                      class="experience-bar"
+                      [style.width.%]="(stat.average / maxSalary()) * 100"
+                      [attr.data-level]="stat.category">
+                    </div>
+                  </div>
+                  <div class="experience-value">
+                    <span class="currency">$</span>{{ stat.average }}<span class="unit">K</span>
                   </div>
                 </div>
-                <div class="experience-value">
-                  <span class="currency">$</span>{{ stat.average }}<span class="unit">K</span>
-                </div>
               </div>
-            </div>
-          }
+            }
+          </div>
         </div>
+      }
+      <div class="graph-explanation">
+        <p>
+          The graph shows salary distribution among users of the selected technology in the specified region, based on responses from
+          Developer Ecosystem Survey 2024
+        </p>
+      </div>
+      <div class="methodology">
+        <p>
+          Note: Experience levels refer to total years of professional coding, not years using the selected technology.
+        </p>
+      </div>
+    } @else {
+      <div class="no-results">
+        <div class="no-results-icon">
+          <svg width="64" height="64" viewBox="0 0 64 64" fill="none">
+            <circle cx="32" cy="32" r="30" stroke="currentColor" stroke-width="2" stroke-dasharray="4 4"/>
+            <path d="M24 32L30 38L40 26" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </div>
+        <h3>No Data Available</h3>
+        <p>
+          We don't have enough survey responses for this combination of country and programming language.
+          Try selecting different options or check back later as we continuously update our data.
+        </p>
       </div>
     }
-
-    <div class="methodology">
-      <h4>Methodology</h4>
-      <p>
-        This data is based on responses from JetBrains Developer Ecosystem Survey.
-        Salaries are shown in USD and represent gross annual compensation.
-      </p>
-    </div>
-  } @else {
-    <div class="no-results">
-      <div class="no-results-icon">
-        <svg width="64" height="64" viewBox="0 0 64 64" fill="none">
-          <circle cx="32" cy="32" r="30" stroke="currentColor" stroke-width="2" stroke-dasharray="4 4"/>
-          <path d="M24 32L30 38L40 26" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-        </svg>
-      </div>
-      <h3>No Data Available</h3>
-      <p>
-        We don't have enough survey responses for this combination of country and programming language.
-        Try selecting different options or check back later as we continuously update our data.
-      </p>
-    </div>
-  }
+  </div>
 </div>
+<div class="background-extender"></div>
