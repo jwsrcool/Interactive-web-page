@@ -26,8 +26,11 @@ The app will automatically reload when you change any of the source files.
 ## ✨ Key Features 
 
 ✅ Dynamic form with automatic submission as soon as both fields are filled
+
 ✅ Overlapping layout of the form and results section
+
 ✅ Interactive salary range visualization (chart)
+
 ✅ Logic and data closely modeled on the original JetBrains salary calculator
 
 ## 🛠️ Building
