@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { SalaryCalculatorComponent } from './components/salary-calculator/salary-calculator.component';
-import { VisualizationComponent } from './components/visualization/visualization.component';
+import { SalaryCalculatorComponent } from './features/salary-calculator/salary-calculator.component';
+import { VisualizationComponent } from './features/visualization/visualization.component';
 
 @Component({
   selector: 'app-root',

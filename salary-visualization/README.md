@@ -1,75 +1,82 @@
-# JetBrains Developer Ecosystem Salary Calculator
+# Salary Visualization Application
 
-This project is an interactive data visualization based on the JetBrains Developer Ecosystem Survey 2024. It allows users to calculate and compare developer salaries based on country, position, and experience level.
+This Angular application visualizes salary data for developers based on programming language, country, and experience level.
+
+## Project Structure
+
+The application follows a feature-based folder structure for better organization:
+
+```
+src/
+├── app/
+│   ├── core/             # Core functionality and constants
+│   │   └── constants/    # Application-wide constants
+│   ├── features/         # Feature modules
+│   │   ├── salary-calculator/  # Salary calculator feature
+│   │   └── visualization/      # Data visualization feature
+│   ├── models/           # Shared interfaces and models
+│   └── services/         # Shared services
+└── assets/
+    ├── data.json         # Salary data
+    └── images/           # Images used in the application
+```
 
 ## Features
 
-- Interactive salary calculator
-- Visual comparison of salary data
-- Insights based on the selected parameters
-- Responsive design for all device sizes
+### Salary Calculator
+The salary calculator component allows users to:
+- Select a programming language and country
+- View calculated salaries based on different experience levels
 
-## Design
+### Visualization
+The visualization component:
+- Displays salary ranges based on selected parameters
+- Shows data points representing salary distribution
+- Provides statistical insights about the selected data
 
-The application is based on the design from the [JetBrains IT Salary Calculator](https://www.jetbrains.com/lp/devecosystem-it-salary-calculator/).
+## Core Modules
 
-## Prerequisites
+### Data Service
+Provides access to salary data with these main functions:
+- `getData()`: Retrieves and transforms raw data
+- `getCountries()`: Gets a list of available countries
+- `getLanguages()`: Gets a list of available programming languages
+- `calculateSalary()`: Calculates a salary based on provided parameters
 
-- Node.js (v14 or higher)
-- npm (v6 or higher)
+### Models
+The application uses several type-safe interfaces:
+- `SalaryData`: Represents processed salary data
+- `SalaryDataWithLevel`: Adds experience level to salary data
+- `SalaryRange`: Represents a range of salaries for visualization
+- `SalaryPoint`: Individual data points for visualization
 
-## Installation
+## Development
 
-1. Clone the repository:
+### Prerequisites
+- Node.js 14+
+- Angular CLI 19.2+
 
-```bash
-ng serve
-```
+### Setup
+1. Clone the repository
+2. Run `npm install` to install dependencies
+3. Run `ng serve` to start the development server
+4. Navigate to `http://localhost:4200/`
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+### Testing
+- Run `ng test` to execute the unit tests
+- Run `ng test --code-coverage` to generate a code coverage report
 
-## Code scaffolding
+### Building
+- Run `ng build --configuration=production` for a production build
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+## Recent Refactoring
 
-```bash
-ng generate component component-name
-```
+The codebase has been refactored to:
+- Improve code organization with a feature-based structure
+- Centralize constants and type definitions
+- Enhance type safety with proper interfaces
+- Improve test coverage and test configurations
+- Add comprehensive documentation
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.

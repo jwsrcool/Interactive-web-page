@@ -1,32 +1,7 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { Observable, map, of } from 'rxjs';
-
-export interface SalaryData {
-  country: string;
-  language: string;
-  experience: string;
-  salary: number;
-}
-
-interface RawDataEntry {
-  value: number;
-  category: string;
-  metadata: {
-    Country: string;
-    Language: string;
-    Experience: string;
-    Salary: string;
-  };
-}
-
-interface RawData {
-  [country: string]: {
-    [language: string]: {
-      entries: RawDataEntry[];
-    };
-  };
-}
+import { Observable, map, of, catchError } from 'rxjs';
+import { SalaryData, RawData } from '../models/salary.model';
 
 @Injectable({
   providedIn: 'root'
@@ -37,6 +12,10 @@ export class DataService {
 
   constructor(private http: HttpClient) { }
 
+  /**
+   * Gets the full dataset of salary information
+   * @returns Observable of SalaryData array
+   */
   getData(): Observable<SalaryData[]> {
     if (this.cachedData) {
       return of(this.cachedData);
@@ -66,28 +45,51 @@ export class DataService {
 
         this.cachedData = transformedData;
         return transformedData;
+      }),
+      catchError(error => {
+        console.error('Error fetching salary data:', error);
+        return of([]);
       })
     );
   }
 
+  /**
+   * Gets a list of all available countries
+   * @returns Observable of string array of country names
+   */
   getCountries(): Observable<string[]> {
     return this.getData().pipe(
       map(data => [...new Set(data.map(item => item.country))].sort())
     );
   }
 
+  /**
+   * Gets a list of all available programming languages
+   * @returns Observable of string array of language names
+   */
   getLanguages(): Observable<string[]> {
     return this.getData().pipe(
       map(data => [...new Set(data.map(item => item.language))].sort())
     );
   }
 
+  /**
+   * Gets a list of all available experience levels
+   * @returns Observable of string array of experience levels
+   */
   getExperienceLevels(): Observable<string[]> {
     return this.getData().pipe(
       map(data => [...new Set(data.map(item => item.experience))].sort())
     );
   }
 
+  /**
+   * Calculates the salary based on country, language and experience
+   * @param country The selected country
+   * @param language The selected programming language
+   * @param experience The selected experience level
+   * @returns Observable with the calculated salary value
+   */
   calculateSalary(country: string, language: string, experience: string): Observable<number> {
     return this.getData().pipe(
       map(data => {

@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
+import { DataService } from '../../services/data.service';
 
 interface SalaryData {
   level: string;
@@ -16,42 +17,67 @@ interface SalaryData {
   styleUrls: ['./salary-calculator.component.css']
 })
 export class SalaryCalculatorComponent implements OnInit {
-  countries: string[] = ['US', 'UK', 'Germany', 'India', 'Canada', 'Australia', 'France', 'Japan'];
-  languages: string[] = ['JavaScript', 'Python', 'Java', 'C#', 'C++', 'Ruby', 'Go', 'PHP'];
+  countries: string[] = [];
+  languages: string[] = [];
   experienceLevels: string[] = ['Junior', 'Mid-level', 'Senior', 'Lead', 'Architect'];
   
-  selectedCountry: string = 'US';
-  selectedLanguage: string = 'JavaScript';
+  selectedCountry: string = '';
+  selectedLanguage: string = '';
   
   calculatedSalaries: SalaryData[] = [];
   
+  constructor(private dataService: DataService) {}
+  
   ngOnInit(): void {
-    this.calculateSalaries();
+    // Load countries and languages from the DataService
+    this.dataService.getCountries().subscribe(countries => {
+      this.countries = countries;
+    });
+    
+    this.dataService.getLanguages().subscribe(languages => {
+      this.languages = languages;
+    });
   }
   
   calculateSalaries(): void {
+    // Check if both country and language are selected
+    if (!this.selectedCountry || !this.selectedLanguage) {
+      this.calculatedSalaries = [];
+      return;
+    }
+    
     // Base salary by country
     const countrySalaries: {[key: string]: number} = {
-      'US': 90000,
-      'UK': 65000,
+      'United States': 90000,
+      'United Kingdom': 65000,
       'Germany': 70000,
       'India': 25000,
       'Canada': 80000,
-      'Australia': 85000,
       'France': 60000,
-      'Japan': 75000
+      'Japan': 75000,
+      'Netherlands': 68000,
+      'Spain': 50000,
+      'Italy': 48000,
+      'Brazil': 35000,
+      'China Mainland': 45000,
+      'Korea, Republic of (South Korea)': 65000,
+      'Mexico': 30000,
+      'Poland': 42000
     };
     
     // Language multipliers
     const languageMultipliers: {[key: string]: number} = {
-      'JavaScript': 1.0,
+      'JavaScript/TypeScript': 1.0,
+      'Java/Kotlin': 1.1,
       'Python': 1.05,
-      'Java': 1.1,
       'C#': 1.05,
-      'C++': 1.15,
-      'Ruby': 1.0,
+      'C / C++': 1.15,
       'Go': 1.2,
-      'PHP': 0.9
+      'PHP': 0.9,
+      'Rust': 1.25,
+      'HTML/CSS': 0.85,
+      'SQL (PL/SQL, T-SQL, or other programming extensions of SQL)': 1.0,
+      'Shell scripting languages (Bash, Shell, PowerShell, etc.)': 0.95
     };
     
     // Experience multipliers
